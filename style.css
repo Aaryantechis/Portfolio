@@ -78,3 +78,6 @@ a.font-black {
 .thumbnail {
   height: 300px;
 }
+video {
+  background-color: black;
+}
